@@ -1,0 +1,30 @@
+h3
+{
+	color:rgb(255, 0, 0);opacity:0.6;;
+	
+}
+h2
+{
+	color: hsl(0, 100%, 30%);;
+	padding-left: 15px;
+}
+body
+{
+	background-color: hsla(0, 100%, 90%, 0.3);;
+	font-family: Georgia;
+	font-size: 15px;
+	font-weight: bold;
+
+}
+a:active {
+  color: blue;
+}
+a:visited {
+  color: #00FF00;
+}
+  a:hover {
+  color: green;
+}
+a:link {
+  text-decoration: none ;
+}
